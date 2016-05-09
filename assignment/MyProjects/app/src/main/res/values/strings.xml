@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">BKBOOK</string>
+    
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="dangnhap">Đăng nhập</string>
+    <string name="welcome">Chào mừng bạn đến với BKBOOK</string>
+    <string name="name">Nhập tên</string>
+    <string name="pw">Mật khẩu</string>
+    <string name="desc">your desc goes here</string>
+
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="reg">Đăng ký thành viên</string>
+    <string name="regform">Đăng ký thành viên</string>
+    <string name="please">Vui lòng điền đầy đủ thông tin của bạn</string>
+    <string name="repw">Nhập lại mật khẩu</string>
+    <string name="eun">Nhập tên người dùng</string>
+    <string name="eye">Nhập email</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_post">PostActivity</string>
+    <string name="un">Người dùng  </string>
+    <string name="postact">Đăng bài</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="write">Viết gì đó...</string>
+    <string name="select">Chọn ảnh</string>
+    <string name="post">Đăng</string>
+    <string name="time">Thời gian</string>
+    <string name="like">Thích</string>
+    <string name="txt">Nội dung</string>
+    <string name="write2">Viết bình luận...</string>
+    <string name="comm">Bình luận</string>
+    <string name="title_activity_comment">CommentActivity</string>
+    <string name="refresh">LÀM MỚI</string>
+    <string name="about">Nhóm ABCXYZ lớp PTUDDĐ:
+        \n Nguyễn Thanh Vinh 51204546
+        \n Nguyễn Quang Vinh 51204543
+        \n Trần Đắc Thế 51203532
+        \n Mai Văn Thu 51203685
+        \n Võ Tiến Thiều 51203557
+        \n Đặng MInh Việt 512034488</string>
+</resources>
